@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My controles</string>
+    <string name="click" />
+    <string name="on" />
+    <string name="off" />
+    <string name="seleccion" />
+    <string name="icono_estrella" />
+    <string name="Cancelar" />
+    <string name="Aceptar" />
+    <string name="otro">Otro</string>
+</resources>
